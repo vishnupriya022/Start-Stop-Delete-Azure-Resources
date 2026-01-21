@@ -59,7 +59,7 @@ Wait until status shows: Running
 📸 Screenshot
 
 ### ▶️ Virtual Machine Running
-![VM Running](vm-running.png)
+![VM Running](screenshots/vm-running.png)
 
 VM status = Running
 
@@ -76,7 +76,7 @@ Status changes to: Stopped (deallocated)
 📸 Screenshot
 
 ### ⏸️ Virtual Machine Stopped
-![VM Stopped](vm-stopped.png)
+![VM Stopped](screenshots/vm-stopped.png)
 
 VM stopped status
 
@@ -84,13 +84,7 @@ VM stopped status
 
 ### ❌ Step 5: Delete Azure Resources (Zero Cost)
 
-Option 1: Delete Virtual Machine Only
-
-Deletes VM
-
-Other resources remain (disk, IP)
-
-✅ Option 2: Delete Resource Group (Recommended)
+✅ Option 2: Delete Resource Group 
 
 Go to Resource Groups
 
@@ -106,4 +100,5 @@ Type resource group name to confirm
 📸 Screenshot
 
 ### ❌ Resource Group Deleted
-![Resource Group Deleted](resource-group-deleted.png)
+
+![Resource Group Deleted](screenshots/resource-group-deleted.png)

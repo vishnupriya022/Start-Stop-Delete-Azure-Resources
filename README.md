@@ -1,4 +1,4 @@
-### ☁️ Project 2: Start, Stop, and Delete Azure Resources (Free Tier)
+### ☁️ Project 2: Start, Stop, and Delete Azure Resources 
 
 ### 📌 Project Objective
 
@@ -21,7 +21,7 @@ Resource Group Name: myproject
 
 Region: central India
 
-### ✅ Step 2: Create Virtual Machine (Ubuntu – Free Tier)
+### ✅ Step 2: Create Virtual Machine
 
 VM Name: vm22
 
@@ -88,4 +88,5 @@ Type resource group name to confirm
 ### ❌ Resource Group Deleted
 
 ![Resource Group Deleted](screenshots/resource-group-deleted.png)
+
 

@@ -4,19 +4,6 @@
 
 This project shows how to start, stop, and delete Azure resources using the Azure Portal. A virtual machine was created inside a resource group, then started and stopped to understand resource status. Finally, the resource group was deleted to avoid any cost.
 
-
-### 🛡️ Cost Safety
-
-Azure Free Account used
-
-Ubuntu Server (Free OS)
-
-Low-cost VM size
-
-Resources deleted after practice
-
-₹0 / £0 cost incurred
-
 ### 🔧 Tools Used
 
 Microsoft Azure Portal
@@ -30,17 +17,17 @@ GitHub for documentation
 ### ✅ Step 1: Create Resource Group
 
 
-Resource Group Name: rg-azure-ops-demo
+Resource Group Name: myproject
 
-Region: UK South
+Region: central India
 
 ### ✅ Step 2: Create Virtual Machine (Ubuntu – Free Tier)
 
-VM Name: vm-ops-demo-01
+VM Name: vm22
 
-Image: Ubuntu Server 20.04 LTS
+Image: Ubuntu Server 24.04 LTS - Gen2
 
-Size: Standard B1s
+Size: Standard B2ats v2
 
 Authentication: Password
 
@@ -50,7 +37,7 @@ Authentication: Password
 
 Go to Virtual Machines
 
-Select: vm-ops-demo-01
+Select: vm22
 
 Click Start 
 
@@ -88,17 +75,17 @@ VM stopped status
 
 Go to Resource Groups
 
-Select: rg-azure-ops-demo
+Select: myproject
 
 Click Delete Resource Group
 
 Type resource group name to confirm
 
 ✔️ All resources deleted
-✔️ No charges incurred
 
 📸 Screenshot
 
 ### ❌ Resource Group Deleted
 
 ![Resource Group Deleted](screenshots/resource-group-deleted.png)
+
